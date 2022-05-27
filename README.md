@@ -1,27 +1,54 @@
-# ToDoList2.0
+# ![Image text](src/assets/headerlogo.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+ToDo List app
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Starting 🚀
 
-## Code scaffolding
+- Clone or download Git Repository.
+- Paste or unzip https://github.com/devFdom/ToDoList2.0
+- Open the VS Code.
+- Enjoy.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See **Installation** to learn how to deploy the project.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Requeriments 📋
 
-## Running unit tests
+- VS Code.
+- Browser.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation 🔧
 
-## Running end-to-end tests
+- Open VS Code.
+- Git clone https://github.com/devFdom/ToDoList2.0 or
+- https://to-do-list-2-0.vercel.app/
+- Enjoy.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Coding style tests ⌨️
 
-## Further help
+Verifies the proper functioning of the web with the technologies applied to it.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# ![Image text](src/assets/screenshot.png)
+
+
+## Tools 🛠️
+
+* [Visual Studio Code]([https://github.com](https://code.visualstudio.com/)) - Keeping track of changes in computer files.
+* [Git & GitHub](https://github.com) - Keeping track of changes in computer files including coordinating team work.
+
+
+## License 📄
+
+This project is licensed under the (devFdom) License - see the file [LICENSE.md](LICENSE.md) for details.
+
+## Thanks 🎁
+
+* Tell others about this project 📢
+* Invite someone from the team to a beer 🍺 or a coffee ☕. If you are very grateful, Audi or BMW 🚗 we accept it too.
+* Give thanks publicly 🤓.
+* etc.
+
+
+
+---
